@@ -1,11 +1,4 @@
-/node_modules
-.vscode
+# Local Netlify folder
+.netlify
 node_modules
-node_modules
-dist
-.env
-.DS_Store
-.idea
-*.log
-coverage
-/build
+ML Explainablity/
